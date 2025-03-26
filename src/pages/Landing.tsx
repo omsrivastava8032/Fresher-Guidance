@@ -394,19 +394,19 @@ export default function Landing() {
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
               {[
                 {
-                  name: "Sarah Johnson",
+                  name: "Abhinav Sharma",
                   role: "Software Developer",
                   company: "Tech Corp",
                   testimonial: "The personalized roadmap helped me land my dream job in web development.",
                 },
                 {
-                  name: "Michael Chen",
+                  name: "Sandeep Singh",
                   role: "Data Scientist",
                   company: "Data Analytics Inc",
                   testimonial: "The mentorship program was invaluable in helping me transition into data science.",
                 },
                 {
-                  name: "Emma Davis",
+                  name: "Rahul Yadav",
                   role: "UX Designer",
                   company: "Creative Solutions",
                   testimonial: "Found my perfect career path and got certified with expert guidance.",
